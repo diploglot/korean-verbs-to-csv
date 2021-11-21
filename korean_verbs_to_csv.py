@@ -1,9 +1,12 @@
+###
+###
 ###     CODE BY MATT BOWLBY (MATT@BOWLBY.CO)
 ###     PYTHON SCRIPT
-###     SCRAPE KOREAN VERBS TO CSV
+###     SCRAPE KOREAN VERB FORMS FROM KOREANVERBS.APP
+###     SAVE DATA TO CSV FILE
 ###
 ###
-###
+
 
 # import libraries
 import requests
@@ -133,4 +136,3 @@ outfile.close()
 
 # print done
 print('Export to CSV completed successfully. Open file output.csv for a complete list of forms for the verbs in your list.')
-
