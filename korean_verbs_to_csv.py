@@ -11,10 +11,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-# Python program to convert a list
+# python program to convert a list
 # to string using join() function
-    
-# Function to convert  
 def listToString(s): 
     
     # initialize an empty string
@@ -42,7 +40,7 @@ for l in lines:
          # remove new lines
 		 verb_list.append(as_list[0].replace("\n",""))
 
-print('Scraping data for the following verbs/adjective:')
+print('Scraping data for the following verbs/adjectives:')
 print(listToString(verb_list))
 
 
