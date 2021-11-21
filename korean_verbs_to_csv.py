@@ -96,7 +96,7 @@ def get_conjugations(url):
         conjugation_names_kr.append(conjugation_name_kr.text)
     # add dictionary form and definition
     conjugation_names_en.insert(0, "dictionary form")
-    conjugation_names_en.insert(0, "definition") 
+    conjugation_names_en.insert(1, "definition") 
 
     # return both lists
     return verb_title_text_kr, verb_definition_text_en, conjugation_names_en, conjugation_names_kr
@@ -104,7 +104,7 @@ def get_conjugations(url):
 ###     4) OUTPUT SCRAPE DATA TO CSV FILE
 
 # create csv file
-outfile = open("output.csv", "w", newline='')
+outfile = open("korean_verbs_output.csv", "w", newline='')
 
 # define dataframe columns
 df = pd.DataFrame()
