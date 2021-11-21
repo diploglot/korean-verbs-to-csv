@@ -12,6 +12,9 @@ This Python script will take a list of Korean verbs and adjectives from a text f
 
 Feel to use this script for personal use or adapt as you see fit, with credit to the original author.
 
+## Example of Output File
+
+![screenshot002](https://user-images.githubusercontent.com/94775766/142754651-4a4e9e02-7b8e-4f9b-a79d-6a9a889ec20a.png)
 
 ## Korean Verb Conjugator (https://koreanverbs.app)
 
