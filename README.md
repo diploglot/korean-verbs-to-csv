@@ -14,7 +14,7 @@ Feel to use this script for personal use or adapt as you see fit, with credit to
 
 ## Example of Output File
 
-![screenshot002](https://user-images.githubusercontent.com/94775766/142754688-da248963-564c-49ee-9022-45b54780c8ef.png)
+![screenshot002](screenshot002.png)
 
 ## Korean Verb Conjugator (https://koreanverbs.app)
 
