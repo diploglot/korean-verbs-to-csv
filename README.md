@@ -4,7 +4,7 @@ This Python script will take a list of Korean verbs and adjectives from a text f
 
 ## How to Use
 
-1. Save the repository to your computer. Open the input file (korean_verbs_input.txt) and enter in the verbs or adjectives that you want to return verb forms for.
+1. Save the repository to your computer. Open the input file (korean_verbs_input.txt) and enter in the verbs or adjectives that you want.
 2. Run the Python script (korean_verbs_to_csv.py). Make sure the input file is in the same folder as the Python script.
 3. The script generates a CSV file (korean_verbs_output.csv) to the same folder.
 
